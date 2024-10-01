@@ -1,4 +1,4 @@
-                                # 0x00. ES6 Basics
+                                #0x00. ES6 Basics
 
 - In this Project we are learning Es6 concepts, We are expect to have basic knowledge of Es6, which include:
 
