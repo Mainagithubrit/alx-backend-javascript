@@ -21,9 +21,9 @@ export default class Currency {
     return this._name;
   }
 
-	set name(value) {
-		this._name = value;
-	}
+  set name(value) {
+    this._name = value;
+  }
 
   /**
  * Creates a string representation of currency
